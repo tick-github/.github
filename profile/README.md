@@ -1,7 +1,8 @@
 # Welcome to *Tick!*
 
-| | ![Sushi Cat](/images/landing-cat.gif) | |
-|:---|---|---:|
+<p align="center">
+    <img src="https://github.com/tick-github/.github/blob/main/images/landing-cat.gif"></img>
+</p>
 
 Now that I have got your attention with this adorable sushi cat (*thanks [Cindy Suen](https://dribbble.com/shots/13737434-Tamago-Sushi-Cat/attachments/5343321?mode=media)!*), welcome to *Tick!*
 
