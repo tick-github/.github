@@ -1,6 +1,6 @@
 # Welcome to *Tick!*
 
-| | ![Sushi Cat](../images/landing-cat.gif) | |
+| | ![Sushi Cat](/images/landing-cat.gif) | |
 |:---|---|---:|
 
 Now that I have got your attention with this adorable sushi cat (*thanks [Cindy Suen](https://dribbble.com/shots/13737434-Tamago-Sushi-Cat/attachments/5343321?mode=media)!*), welcome to *Tick!*
