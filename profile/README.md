@@ -20,7 +20,7 @@ services:
     container_name: tick-frontend
     restart: unless-stopped
     # for now, the versioning is not implemented. This is being looked at.
-    image: ejjvandelaar/tick-frontend:main-df90cb8
+    image: ejjvandelaar/tick-frontend:latest
     ports:
       - 7973:80
 ```
