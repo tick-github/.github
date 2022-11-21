@@ -8,7 +8,7 @@ Now that I have got your attention with this adorable sushi cat (*thanks [Cindy 
 
 *Tick!* is an open-source school project, providing students with a 'one-glace' dashboard to get through their days.
 
-## Running the project
+<!--## Running the project
 
 To run the project, you will need `docker` and its `compose` installed (see [here](https://docs.docker.com/engine/install/)). For now, the compose file is as follows:
 
@@ -29,4 +29,4 @@ Then run the `docker-compose.yml` by executing this command in the directory tha
 
 ```
 docker compose up --build
-```
+```-->
