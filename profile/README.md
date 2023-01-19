@@ -106,8 +106,6 @@ root-folder/
 ```
 
 Go to root folder and run `docker compose up --build` via your terminal. You may need to start the Docker Daemon first.
-    
-Then go to the `tick-frontend` folder and run `npm i` and `npm start` via your terminal. Give it a bit of time to install the npm-packages.
 
 The frontend application is now reachable via the default location `http://localhost:4200`.
 
