@@ -109,4 +109,6 @@ Go to root folder and run `docker compose up --build` via your terminal. You may
 
 The frontend application is now reachable via the default location `http://localhost:4200`.
 
+Then go to the `tick-frontend` folder and run `npm i` and `npm start` via your terminal. Give it a bit of time to install the npm-packages.
+
 The settings API has a paired MongoDB document datastore attached to it. This datastore has data persistence. You may have noticed a new folder in the folder root, called `data`. Herein resides the data for the settings-db.
